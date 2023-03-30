@@ -1,4 +1,4 @@
-module XRouter
+module xrouter
 
 go 1.20
 
