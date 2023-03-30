@@ -1,4 +1,4 @@
-module xrouter
+module github.com/lyxodius/xrouter
 
 go 1.20
 
